@@ -1,8 +1,8 @@
 ---
 title:  "EKHUB!"
 date: 2018-11-08
-categories: [test]
-tags: [testTag]
+categories: [categories]
+tags: [welcome]
 ---
 
 EKHUB!
