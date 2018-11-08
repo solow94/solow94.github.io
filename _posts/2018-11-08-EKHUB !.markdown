@@ -1,6 +1,6 @@
 ---
 title:  "EKHUB!"
-date: YYYY-MM-DD-name-of-post.ext
+date: 2018-11-08
 categories: [test]
 tags: [testTag]
 ---
