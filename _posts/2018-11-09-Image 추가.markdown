@@ -7,6 +7,6 @@ tags: [Image]
 ---
 
 Image Test 해보기.
-<img height="200"></img>
-![]({{ "/assets/image1.jpg" | absolute_url }})
+
+![]({{ "/assets/image1.jpg" | absolute_url }}){:hight="100"}
 
