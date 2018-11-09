@@ -7,4 +7,6 @@ tags: [Image]
 ---
 
 Image Test 해보기.
-![My helpful screenshot]({{ "/assets/image1.jpg" =200x200 | absolute_url }})
+<img height="200"></img>
+![]({{ "/assets/image1.jpg" | absolute_url }})
+
