@@ -1,0 +1,10 @@
+---
+title:  "Image 추가!"
+date: 2018-11-09
+categories: [categories]
+tags: [Image]
+
+---
+
+Image Test 해보기.
+![My helpful screenshot]({{ "/assets/image1.jpg" | absolute_url }})
