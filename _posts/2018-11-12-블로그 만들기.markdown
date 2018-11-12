@@ -6,15 +6,25 @@ tags: [Guide]
 
 ---
 <ol>
-<li><h4>Github 가입</h4></li>
-<li><h4>Jekyll Themes</h4></li>
+<li>
+<h4>Github 가입</h4>
+</li>
+<li>
+<h4>Jekyll Themes</h4>
 <p>Jekyll Themes "http://jekyllthemes.org/" 에서 원하는 테마를 고릅니다.</p>
 <p>더 예쁜 테마를 원하시면 ... "https://jekyllthemes.io/" 의 유료 테마를 고르시면 됩니다</p>
+
 <img src="/assets/img3.PNG" width="100%"/>
+
 <p>무료테마에서는 Demo를 클릭하여 테마를 살펴볼 수 있고 마음에 드는 테마를 고르면
 HomePage를 클릭하여 해당 테마의 Github 페이지로 이동합니다.</p>
+</li>
+<li>
+<h4>Jekyll Themes Fork</h4>
 <img src="/assets/img4.PNG" width="100%"/>
-<p>그리고 Fork를 합니다.</p>
+<p>해당 테마의 Github 페이지로 이동을 하면 Fork를 합니다.</p>
+</li>
+<li><h4>Repository Name</h4>
 <img src="/assets/img5.PNG" width="100%"/>
 Fork가 완료되면 위와 같은 화면이 나오는데 아이디 뒤에 jekyll-cayman-theme 부분을
 <span style="background-color:yellow">"본인의 아이디.github.io"</span> 로 변경해야 합니다.
@@ -24,6 +34,7 @@ Fork가 완료되면 위와 같은 화면이 나오는데 아이디 뒤에 jekyl
 <p>Repository name을 변경한 후 사진 처럼 Setting -> GitHub Pages에서
 Your site is published 초록색으로 보이게 되면 주소창에 "아이디.github.io"를 입력하면 
 접속이 가능합니다.</p>
+</li>
 </ol>
 
 밖에서 사용하는 이미지
