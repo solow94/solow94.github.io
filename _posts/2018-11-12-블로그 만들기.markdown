@@ -8,12 +8,13 @@ tags: [Guide]
 <ol>
 <li><h4>Github 가입</h4></li>
 <li><h4>Jekyll Themes</h4></li>
-Jekyll Themes "http://jekyllthemes.org/" 에서 원하는 테마를 고릅니다.
+<p>Jekyll Themes "http://jekyllthemes.org/" 에서 원하는 테마를 고릅니다.</p>
+<p>더 예쁜 테마를 원하시면 ... "https://jekyllthemes.io/" 의 유료 테마를 고르시면 됩니다</p>
 <img src="/assets/img3.PNG" width="100%"/>
 <p>Demo를 클릭하여 테마를 살펴볼 수 있고 마음에 드는 테마를 고르면
 HomePage를 클릭하여 해당 테마의 Github 페이지로 이동합니다.</p>
+<img src="/assets/img4.PNG" height="50%"/>
 
-<!-- <li><h3>Github Page 설정</h3></li> -->
 </ol>
 
 밖에서 사용하는 이미지
