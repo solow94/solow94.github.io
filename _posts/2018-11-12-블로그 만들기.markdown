@@ -9,8 +9,11 @@ tags: [Guide]
 <li><h4>Github 가입</h4></li>
 <li><h4>Jekyll Themes</h4></li>
 Jekyll 테마를 모아둔 사이트 "http://jekyllthemes.org/" 에서 원하는 테마를 고릅니다.
-![]({ "/assets/img3.PNG" | absolute_url}){:height="100px"}
-Demo를 클릭하여 테마를 살펴볼 수 있습니다.
-![]({ "/assets/img2.PNG" | absolute_url}){:height="50px"}
+<!-- ![]({ "/assets/img3.PNG" | absolute_url}){:height="100px"} -->
+<img src="/assets/img3.PNG" width="90%"/>
+Demo를 클릭하여 테마를 살펴볼 수 있고 마음에 드는 테마를 고르면
+<!-- ![]({ "/assets/img2.PNG" | absolute_url}){:height="50px"} -->
+HomePage를 클릭하여 해당 테마의 Github 페이지로 이동합니다.
+
 <!-- <li><h3>Github Page 설정</h3></li> -->
 </ol>
