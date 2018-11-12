@@ -1,5 +1,5 @@
 ---
-title:  "블로그 만들기"
+title:  "Github.io 만들기[1]"
 date: 2018-11-12
 categories: [categories]
 tags: [Guide]
@@ -36,6 +36,3 @@ Your site is published 초록색으로 보이게 되면 주소창에 "아이디.
 접속이 가능합니다.</p>
 </li>
 </ol>
-
-밖에서 사용하는 이미지
-![]({ "/assets/img3.PNG" | absolute_url}){:height="100px"}
