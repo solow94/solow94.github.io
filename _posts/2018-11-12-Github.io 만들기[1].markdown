@@ -37,5 +37,12 @@ Your site is published 초록색으로 보이게 되면 주소창에 "아이디.
 </li>
 <li>
 <h4>Config 설정</h4>
+<p>_config.yml파일이 있을건데 여기서 설정을 변경해줘야 합니다.</p>
+<img src="/assets/img8.PNG" width="100%"/>
+<p>빨간 박스 안에 있는 url, baseurl을 변경해야 하는데..
+url은 <span style="background-color:yellow">'http://아이디.github.io'</span>
+baseurl은 <span style="background-color:yellow">공백</span>으로 입력해야 합니다.</p>
+<p>아래에 있는 disqus_shortname은 댓글창을 붙여준건데..</p>
+<p>다른 글에서 설명해드리니 지금은 무시하셔도 됩니다 :)</p>
 </li>
 </ol>
