@@ -14,7 +14,11 @@ tags: [Guide]
 <p>Demo를 클릭하여 테마를 살펴볼 수 있고 마음에 드는 테마를 고르면
 HomePage를 클릭하여 해당 테마의 Github 페이지로 이동합니다.</p>
 <img src="/assets/img4.PNG" height="50%"/>
-
+<p>그리고 Fork를 합니다.</p>
+<img src="/assets/img5.PNG" width="100%"/>
+Fork가 완료되면 위와 같은 화면이 나오는데 아이디 뒤에 jekyll-cayman-theme 부분을
+"본인의 아이디.github.io" 로 변경해야 합니다.
+<p></p>
 </ol>
 
 밖에서 사용하는 이미지
