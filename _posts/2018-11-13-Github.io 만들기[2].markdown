@@ -1,0 +1,13 @@
+---
+title:  "Github.io 만들기[2]"
+date: 2018-11-12
+categories: [categories]
+tags: [Guide]
+
+---
+
+<ol>
+<li><h4>Post</h4></li>
+<p>글을 작성하는 방법입니다.</p>
+<p>저는 VSCode를 사용해서 글을 작성하고 있습니다.</p>
+</ol>
