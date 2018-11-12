@@ -15,7 +15,6 @@ tags: [Guide]
 ---
 ```
 <ol>
-<li><h4>Post</h4></li>
 <p>글을 작성하는 방법입니다.</p>
 <p>저는 VSCode를 사용해서 글을 작성하고 있습니다.</p>
 
@@ -25,12 +24,6 @@ tags: [Guide]
 <img src="/assets/img9.PNG" width="100%"/>
 <p>파일 이름은 yyyy-mm-dd-title.markdown 또는 yyyy-mm-dd-title.md 입니다.</p>
 <p>title은 자유롭게 입력해주시면 됩니다. </p>
-<img src="/assets/img10.PNG" width="100%"/>
-<p>그리고 생성한 markdown 파일의 기본양식으로 위의 코드를 꼭 입력해야 합니다.</p>
-<p>기본 양식 아래 부분에 글의 내용을 입력해주시면 끝입니다 !</p>
-</li>
-
-
 </ol>
 
 ``` ruby
@@ -42,4 +35,15 @@ tags: [Guide]
 
 ---
 ```
+
+<p>그리고 생성한 markdown 파일의 기본양식으로 위의 코드를 꼭 입력해야 합니다.</p>
+<p>기본 양식 아래 부분에 글의 내용을 입력해주시면 끝입니다 !</p>
+</li>
+
+<li><h4>Markdown, HTML ?</h4></li>
+<p>글의 내용은 Markdown 또는 HTML 둘 다 사용이 가능합니다. </p>
+
+
+
+
 <p>그리고 생성한 markdown 파일의 기본양식으로 위의 코드를 꼭 입력해야 합니다.</p>
