@@ -10,4 +10,7 @@ tags: [Guide]
 <li><h4>Post</h4></li>
 <p>글을 작성하는 방법입니다.</p>
 <p>저는 VSCode를 사용해서 글을 작성하고 있습니다.</p>
+
+<li><h4>VSCode로 코드 옮기기</h4></li>
+<li><h4>Post 양식</h4></li>
 </ol>
