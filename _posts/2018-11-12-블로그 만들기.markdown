@@ -5,7 +5,9 @@ categories: [categories]
 tags: [Guide]
 
 ---
-<ul>
+<ol>
 <li><h3>Github 가입</h3></li>
-<li><h3>Github Page 설정</h3></li>
-</ul>
+<li><h3>Jekyll Themes</h3></li>
+Jekyll 테마를 모아둔 사이트 "http://jekyllthemes.org/"에서 원하는 테마를 고릅니다.
+<!-- <li><h3>Github Page 설정</h3></li> -->
+</ol>
