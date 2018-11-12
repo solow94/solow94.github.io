@@ -5,18 +5,6 @@ categories: [categories]
 tags: [Guide]
 
 ---
-<ol>
-<p>글을 작성하는 방법입니다.</p>
-<p>저는 VSCode를 사용해서 글을 작성하고 있습니다.</p>
-
-<li><h4>VSCode로 코드 옮기기</h4></li>
-<li><h4>Post 양식</h4>
-<p>일단 "_posts" 라는 폴더 내부에 마크다운 파일을 생성해줘야 합니다. </p>
-<img src="/assets/img9.PNG" width="100%"/>
-<p>파일 이름은 yyyy-mm-dd-title.markdown 또는 yyyy-mm-dd-title.md 입니다.</p>
-<p>title은 자유롭게 입력해주시면 됩니다. </p>
-</ol>
-
 ``` ruby
 ---
 title:  "Github.io 만들기[2]"
@@ -26,6 +14,21 @@ tags: [Guide]
 
 ---
 ```
+
+
+
+<ol>
+<p>글을 작성하는 방법입니다.</p>
+<p>저는 VSCode를 사용해서 글을 작성하고 있습니다.</p>
+
+<li><h4>VSCode로 코드 옮기기</h4></li>
+<li><h4>Post 양식</h4>
+<p>일단 "_posts" 라는 폴더 내부에 마크다운 파일을 생성해줘야 합니다. </p>
+
+<p>파일 이름은 yyyy-mm-dd-title.markdown 또는 yyyy-mm-dd-title.md 입니다.</p>
+<p>title은 자유롭게 입력해주시면 됩니다. </p>
+</ol>
+
 
 그리고 생성한 markdown 파일의 기본양식으로 위의 코드를 꼭 입력해야 합니다.
 기본 양식 아래 부분에 글의 내용을 입력해주시면 끝입니다 !
