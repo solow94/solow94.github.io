@@ -5,4 +5,7 @@ categories: [categories]
 tags: [Guide]
 
 ---
-<h1>Github 만들기</h1>
+<ul>
+<li><h3>Github 가입</h3></li>
+<li><h3>Github Page 설정</h3></li>
+</ul>
