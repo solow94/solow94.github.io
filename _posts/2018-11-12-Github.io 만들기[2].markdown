@@ -27,7 +27,6 @@ categories: [categories]
 tags: [Guide]
 
 ---
-#=> prints 'Hi, Tom' to STDOUT.
 ```
 
 <p>그리고 생성한 markdown 파일의 기본양식으로 위의 코드를 꼭 입력해야 합니다.</p>
