@@ -17,7 +17,7 @@ HomePage를 클릭하여 해당 테마의 Github 페이지로 이동합니다.</
 <p>그리고 Fork를 합니다.</p>
 <img src="/assets/img5.PNG" width="100%"/>
 Fork가 완료되면 위와 같은 화면이 나오는데 아이디 뒤에 jekyll-cayman-theme 부분을
-"본인의 아이디.github.io" 로 변경해야 합니다.
+<span style="background-color:yellow">"본인의 아이디.github.io"</span> 로 변경해야 합니다.
 <p></p>
 </ol>
 
